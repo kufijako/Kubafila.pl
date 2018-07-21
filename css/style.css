@@ -1,0 +1,23 @@
+html,
+body,
+header,
+#intro {
+    font-family: 'Lato', sans-serif !important;
+
+    height: 100%;
+    text-decoration: none;!important;
+}
+
+#intro {
+    background: url("../img/architecture-asphalt-buildings-1229852.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.project
+{
+    margin-top: 5%;
+}
+
