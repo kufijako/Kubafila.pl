@@ -16,8 +16,13 @@ header,
     background-size: cover;
 }
 
-.project
+.space
 {
     margin-top: 5%;
 }
 
+.book
+{
+    border: 3px solid #263238;
+    border-radius: 3px;
+}
