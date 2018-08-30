@@ -27,3 +27,11 @@ header,
     border-radius: 3px;
     max-height: 80%;
 }
+
+
+.round
+{
+	border-radius:100%;
+	border: 5px solid #263238;
+	background: #263238;
+}
