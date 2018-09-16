@@ -24,5 +24,5 @@ My personal website with project examples, about me description and books recomm
 ## Inspiration
 [Landing page course - Material Design for Bootstrap 4 ](https://mdbootstrap.com/landing-page-lesson-1/)
 
-Background photo from [Pexels](www.pexels.com)
+Background photo from [Pexels](https://www.pexels.com)
 
